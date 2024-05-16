@@ -1,0 +1,532 @@
+City,Product Type,Trip or Order Status,Request Time,Begin Trip Time,Begin Trip Lat,Begin Trip Lng,Begin Trip Address,Dropoff Time,Dropoff Lat,Dropoff Lng,Dropoff Address,Distance (miles),Fare Amount,Fare Currency
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,0.83,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,27.52,,USD
+Portland,UberX,COMPLETED,,,,,,,,,,8.11,,USD
+Portland,UberX,COMPLETED,,,,,,,,,,5.06,,USD
+Portland,UberX,COMPLETED,,,,,,,,,,0.93,,USD
+Portland,UberX,COMPLETED,,,,,,,,,,3.39,,USD
+Washington D.C.,,CANCELED,,,,,,,,,,,,
+Boston,UberX,COMPLETED,,,,,,,,,,3.44,,USD
+Boston,UberX,COMPLETED,,,,,,,,,,3.16,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,5.23,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,3.72,,USD
+Washington D.C.,UberX,CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,UberX,CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,UberX,CANCELED,,,,,,,,,,0,,USD
+Boston,UberX,COMPLETED,,,,,,,,,,9.05,,USD
+Connecticut,UberX,COMPLETED,,,,,,,,,,1.2,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,6.97,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,3.98,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,3.71,,USD
+Washington D.C.,UberX,CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,2.53,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,6.93,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,1.83,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,1.74,,USD
+Washington D.C.,UberX,CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,2.19,,USD
+Washington D.C.,UberX,CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,4,,USD
+Washington D.C.,UberX,CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,5.81,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,5.81,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,3.98,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,2.86,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,2.57,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,2.24,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,1.58,,USD
+Washington D.C.,UberX,CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,3.54,,USD
+Washington D.C.,UberX,CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,3.27,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,2.51,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,2.98,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,3.74,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,7.64,,USD
+Washington D.C.,UberX,CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,3.15,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,5.84,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,4.12,,USD
+Washington D.C.,Uber Pet,COMPLETED,,,,,,,,,,0.84,,USD
+Washington D.C.,Uber Pet,COMPLETED,,,,,,,,,,0.85,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,6.08,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,7.42,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,3.79,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,5.73,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,4.08,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,9.39,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,5.81,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,5.99,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,5.9,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,1.31,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,7.61,,USD
+Dallas,UberX,COMPLETED,,,,,,,,,,25.56,,USD
+Dallas,UberX,CANCELED,,,,,,,,,,0,,USD
+Dallas,UberX,COMPLETED,,,,,,,,,,2.68,,USD
+Dallas,UberX,COMPLETED,,,,,,,,,,1.33,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,3.4,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,3.53,,USD
+St Louis,UberX,COMPLETED,,,,,,,,,,13.87,,USD
+St Louis,UberX,COMPLETED,,,,,,,,,,1.57,,USD
+St Louis,UberX,COMPLETED,,,,,,,,,,2.15,,USD
+St Louis,UberX,COMPLETED,,,,,,,,,,2.11,,USD
+St Louis,UberX,COMPLETED,,,,,,,,,,2.17,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,2.62,,USD
+Washington D.C.,UberXL,COMPLETED,,,,,,,,,,1.44,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,1.4,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,5.72,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,5.37,,USD
+Washington D.C.,UberX,CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,5.35,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,6.35,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,4.18,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,4.02,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,3.88,,USD
+Chicago,UberX,COMPLETED,,,,,,,,,,1.27,,USD
+Chicago,UberX,COMPLETED,,,,,,,,,,11.58,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,3.21,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,3.57,,USD
+Washington D.C.,UberX,CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,2.42,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,3.59,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,5.34,,USD
+Washington D.C.,UberX,CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,3.56,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,3.29,,USD
+Washington D.C.,UberX,CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,7.05,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,2.59,,USD
+Louisville,UberXL,COMPLETED,,,,,,,,,,9.42,,USD
+Louisville,UberXL,COMPLETED,,,,,,,,,,0.96,,USD
+Louisville,UberX,COMPLETED,,,,,,,,,,9.07,,USD
+Washington D.C.,Uber Pet,COMPLETED,,,,,,,,,,0.92,,USD
+Washington D.C.,Uber Pet,COMPLETED,,,,,,,,,,1.05,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,6.12,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,4.07,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,3.94,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,3.72,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,12.7,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,2.4,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,3.4,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,6.26,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,6.22,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,10.3,,USD
+Los Angeles,UberX,COMPLETED,,,,,,,,,,11.34,,USD
+Los Angeles,,UNFULFILLED,,,,,,,,,,0,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,9.59,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,1.35,,USD
+Washington D.C.,UberX,CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,9.63,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,5.4,,USD
+"Asheville, NC",UberX,COMPLETED,,,,,,,,,,15.8,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,24.04,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,2.51,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,11.59,,USD
+Baltimore-Maryland,UberX,COMPLETED,,,,,,,,,,2.19,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,11.75,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,6.09,,USD
+Washington D.C.,UberX,CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,8.6,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,8.49,,USD
+Portland,UberX,COMPLETED,,,,,,,,,,12.98,,USD
+Portland,UberX,COMPLETED,,,,,,,,,,3.37,,USD
+Portland,UberX,COMPLETED,,,,,,,,,,1.95,,USD
+Portland,UberX,COMPLETED,,,,,,,,,,2,,USD
+Portland,UberX,COMPLETED,,,,,,,,,,1.85,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,2.48,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,4.06,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,7.51,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,2.72,,USD
+Washington D.C.,UberX,CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,UberX,CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,4.32,,USD
+Boston,UberX,CANCELED,,,,,,,,,,0,,USD
+Boston,UberX,COMPLETED,,,,,,,,,,2.2,,USD
+Boston,UberX,COMPLETED,,,,,,,,,,2.57,,USD
+Washington D.C.,UberX,CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,10.93,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,6.95,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,6.24,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,5.5,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,6.01,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,14.81,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,3.23,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,5.47,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,5.11,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,4.04,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,3.7,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,3.97,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,3.57,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,2.05,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,2.11,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,7.74,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,2.1,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,5.34,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,0.71,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,5.91,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,28.02,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,1.51,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,2.47,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,0.94,,USD
+New Jersey,UberX,COMPLETED,,,,,,,,,,29.79,,USD
+New York City,UberX,COMPLETED,,,,,,,,,,2.98,,USD
+Washington D.C.,Pool: MATCHED,COMPLETED,,,,,,,,,,1.97,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,2.85,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,1.39,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,4.22,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,3.96,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,2.86,,USD
+Washington D.C.,Pool: MATCHED,COMPLETED,,,,,,,,,,5.94,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,1.86,,USD
+Boston,UberX,COMPLETED,,,,,,,,,,12.1,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,1.77,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,1.44,,USD
+Washington D.C.,Express Pool: MATCHED,COMPLETED,,,,,,,,,,2.36,,USD
+Washington D.C.,Express Pool,COMPLETED,,,,,,,,,,2.23,,USD
+Washington D.C.,Express Pool: MATCHED,COMPLETED,,,,,,,,,,1.52,,USD
+Pittsburgh,UberX,COMPLETED,,,,,,,,,,3.42,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,8.13,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,0.54,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,6.84,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,3.04,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,11.82,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,6.38,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,8.06,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,7.02,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,1.78,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,5.39,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,5.04,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,1.85,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,1.39,,USD
+Washington D.C.,Pool: MATCHED,COMPLETED,,,,,,,,,,0.92,,USD
+Washington D.C.,UberX,CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,1.56,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,1.61,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,34,,USD
+Washington D.C.,Express Pool,CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,Express Pool,DRIVER_CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,1.52,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,1.15,,USD
+Washington D.C.,UberX,CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,7.29,,USD
+Washington D.C.,Express Pool: MATCHED,COMPLETED,,,,,,,,,,7.64,,USD
+Washington D.C.,Express Pool: MATCHED,COMPLETED,,,,,,,,,,2.22,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,5.84,,USD
+Denver,UberX,COMPLETED,,,,,,,,,,25.21,,USD
+Denver,UberX,COMPLETED,,,,,,,,,,5.51,,USD
+Denver,UberX,COMPLETED,,,,,,,,,,4.88,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,7.77,,USD
+Washington D.C.,Express Pool: MATCHED,COMPLETED,,,,,,,,,,4.28,,USD
+Washington D.C.,Express Pool,COMPLETED,,,,,,,,,,2.44,,USD
+Washington D.C.,UberX,DRIVER_CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,1.48,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,1.73,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,8.81,,USD
+Washington D.C.,UberX,CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,1.43,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,4.94,,USD
+Washington D.C.,UberX,CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,2.44,,USD
+Washington D.C.,UberX,CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,Express Pool: MATCHED,COMPLETED,,,,,,,,,,0.99,,USD
+Washington D.C.,Pool: MATCHED,COMPLETED,,,,,,,,,,1.61,,USD
+Washington D.C.,Express Pool: MATCHED,COMPLETED,,,,,,,,,,1.17,,USD
+Washington D.C.,Express Pool: MATCHED,COMPLETED,,,,,,,,,,2.04,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,1.29,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,1.56,,USD
+Washington D.C.,Express Pool: MATCHED,COMPLETED,,,,,,,,,,1.09,,USD
+Washington D.C.,Express Pool,CANCELED,,,,,,,,,,0,,USD
+Baltimore-Maryland,UberX,COMPLETED,,,,,,,,,,33.24,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,4.06,,USD
+Washington D.C.,Express Pool: MATCHED,COMPLETED,,,,,,,,,,4.62,,USD
+Washington D.C.,Express Pool,COMPLETED,,,,,,,,,,0.8,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,4.28,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,1.1,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,0.51,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,1.45,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,1.56,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,1.89,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,2.65,,USD
+Washington D.C.,Express Pool: MATCHED,COMPLETED,,,,,,,,,,2.33,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,1.93,,USD
+Washington D.C.,Express Pool: MATCHED,COMPLETED,,,,,,,,,,2.14,,USD
+Washington D.C.,Pool,DRIVER_CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,Express Pool: MATCHED,COMPLETED,,,,,,,,,,3.11,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,0.91,,USD
+Washington D.C.,Pool,COMPLETED,,,,,,,,,,1.98,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,2.39,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,0.75,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,1.77,,USD
+Washington D.C.,Pool: MATCHED,COMPLETED,,,,,,,,,,2.31,,USD
+Richmond,UberX,COMPLETED,,,,,,,,,,5.5,,USD
+Richmond,UberX,COMPLETED,,,,,,,,,,3.5,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,1.69,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,3.61,,USD
+Washington D.C.,Pool: MATCHED,COMPLETED,,,,,,,,,,2.16,,USD
+Washington D.C.,Pool: MATCHED,COMPLETED,,,,,,,,,,2.67,,USD
+Baltimore-Maryland,UberXL,COMPLETED,,,,,,,,,,7.48,,USD
+Washington D.C.,Pool: MATCHED,COMPLETED,,,,,,,,,,1.98,,USD
+Washington D.C.,Express Pool: MATCHED,COMPLETED,,,,,,,,,,2.28,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,2.87,,USD
+Washington D.C.,Pool: MATCHED,COMPLETED,,,,,,,,,,1.92,,USD
+Washington D.C.,Express Pool,CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,Pool,COMPLETED,,,,,,,,,,1.4,,USD
+Washington D.C.,Express Pool: MATCHED,COMPLETED,,,,,,,,,,2.97,,USD
+Washington D.C.,Express Pool: MATCHED,COMPLETED,,,,,,,,,,2.59,,USD
+Washington D.C.,Pool: MATCHED,COMPLETED,,,,,,,,,,2.15,,USD
+Washington D.C.,Pool: MATCHED,COMPLETED,,,,,,,,,,4.24,,USD
+Washington D.C.,Pool,COMPLETED,,,,,,,,,,2.31,,USD
+Washington D.C.,Pool,CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,Pool: MATCHED,COMPLETED,,,,,,,,,,8.11,,USD
+Washington D.C.,UberX,COMPLETED,,,,,,,,,,3.58,,USD
+Washington D.C.,uberX,COMPLETED,,,,,,,,,,5.24,,USD
+Washington D.C.,POOL,COMPLETED,,,,,,,,,,7.32,,USD
+Washington D.C.,uberX,COMPLETED,,,,,,,,,,31.2,,USD
+Washington D.C.,POOL: MATCHED,COMPLETED,,,,,,,,,,2.98,,USD
+Washington D.C.,uberX,COMPLETED,,,,,,,,,,0.76,,USD
+Washington D.C.,POOL: MATCHED,COMPLETED,,,,,,,,,,6.77,,USD
+Washington D.C.,POOL,CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,Express POOL: MATCHED,COMPLETED,,,,,,,,,,1.77,,USD
+Washington D.C.,uberX,COMPLETED,,,,,,,,,,10.42,,USD
+Washington D.C.,POOL: MATCHED,COMPLETED,,,,,,,,,,5.92,,USD
+Washington D.C.,POOL,CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,uberX,COMPLETED,,,,,,,,,,1.93,,USD
+Washington D.C.,POOL: MATCHED,COMPLETED,,,,,,,,,,1.94,,USD
+Washington D.C.,uberX,COMPLETED,,,,,,,,,,4.67,,USD
+Washington D.C.,uberX,COMPLETED,,,,,,,,,,1.79,,USD
+Washington D.C.,POOL: MATCHED,COMPLETED,,,,,,,,,,31.88,,USD
+Washington D.C.,POOL: MATCHED,COMPLETED,,,,,,,,,,24.57,,USD
+Washington D.C.,Express POOL: MATCHED,COMPLETED,,,,,,,,,,5.15,,USD
+Washington D.C.,Express POOL: MATCHED,COMPLETED,,,,,,,,,,6.59,,USD
+Washington D.C.,uberX,COMPLETED,,,,,,,,,,1.9,,USD
+Washington D.C.,POOL: MATCHED,COMPLETED,,,,,,,,,,1.85,,USD
+Washington D.C.,POOL: MATCHED,COMPLETED,,,,,,,,,,1.36,,USD
+Washington D.C.,,UNFULFILLED,,,,,,,,,,0,,
+Washington D.C.,Express POOL: MATCHED,COMPLETED,,,,,,,,,,2.71,,USD
+Washington D.C.,Express POOL: MATCHED,COMPLETED,,,,,,,,,,3.54,,USD
+Washington D.C.,POOL,COMPLETED,,,,,,,,,,6.49,,USD
+Washington D.C.,Express POOL: MATCHED,COMPLETED,,,,,,,,,,2.27,,USD
+Washington D.C.,uberX,COMPLETED,,,,,,,,,,4.42,,USD
+Washington D.C.,POOL: MATCHED,COMPLETED,,,,,,,,,,2.24,,USD
+Washington D.C.,POOL: MATCHED,COMPLETED,,,,,,,,,,10.28,,USD
+Washington D.C.,POOL: MATCHED,COMPLETED,,,,,,,,,,2.49,,USD
+Washington D.C.,uberX,COMPLETED,,,,,,,,,,1.85,,USD
+Washington D.C.,POOL: MATCHED,COMPLETED,,,,,,,,,,2.33,,USD
+Washington D.C.,uberX,COMPLETED,,,,,,,,,,1.9,,USD
+Washington D.C.,uberX,COMPLETED,,,,,,,,,,1.92,,USD
+Washington D.C.,uberX,CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,uberX,COMPLETED,,,,,,,,,,0.78,,USD
+Washington D.C.,POOL: MATCHED,COMPLETED,,,,,,,,,,2.42,,USD
+Washington D.C.,POOL: MATCHED,COMPLETED,,,,,,,,,,2.58,,USD
+Washington D.C.,POOL,COMPLETED,,,,,,,,,,7.73,,USD
+Washington D.C.,Express POOL,CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,POOL: MATCHED,COMPLETED,,,,,,,,,,1.37,,USD
+Washington D.C.,POOL: MATCHED,COMPLETED,,,,,,,,,,5.69,,USD
+Washington D.C.,POOL: MATCHED,COMPLETED,,,,,,,,,,2.13,,USD
+Washington D.C.,uberX,COMPLETED,,,,,,,,,,5.43,,USD
+Washington D.C.,uberX,COMPLETED,,,,,,,,,,3.02,,USD
+Washington D.C.,uberX,COMPLETED,,,,,,,,,,1.45,,USD
+Washington D.C.,POOL: MATCHED,COMPLETED,,,,,,,,,,1.97,,USD
+Washington D.C.,uberX,COMPLETED,,,,,,,,,,2.02,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,2.66,,USD
+Washington D.C.,uberX,COMPLETED,,,,,,,,,,2.43,,USD
+Washington D.C.,uberX,COMPLETED,,,,,,,,,,1.91,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,1.88,,USD
+Washington D.C.,uberX,COMPLETED,,,,,,,,,,1.69,,USD
+Washington D.C.,uberX,COMPLETED,,,,,,,,,,2.07,,USD
+Washington D.C.,uberX,COMPLETED,,,,,,,,,,1.72,,USD
+Washington D.C.,uberX,COMPLETED,,,,,,,,,,1.92,,USD
+Washington D.C.,uberPOOL,COMPLETED,,,,,,,,,,1.51,,USD
+Washington D.C.,uberPOOL,COMPLETED,,,,,,,,,,1.24,,USD
+San Francisco,POOL: MATCHED,COMPLETED,,,,,,,,,,7.62,,USD
+Washington D.C.,uberX,COMPLETED,,,,,,,,,,21.12,,USD
+Washington D.C.,uberX,COMPLETED,,,,,,,,,,5.24,,USD
+Washington D.C.,uberPOOL,COMPLETED,,,,,,,,,,1.7,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,1.97,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,1.76,,USD
+Washington D.C.,uberX,COMPLETED,,,,,,,,,,1.69,,USD
+Paris,POOL,COMPLETED,,,,,,,,,,17.34,,EUR
+Paris,POOL,COMPLETED,,,,,,,,,,1.59,,EUR
+Paris,POOL,COMPLETED,,,,,,,,,,2.17,,EUR
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,5.48,,USD
+Washington D.C.,uberX,COMPLETED,,,,,,,,,,1.36,,USD
+Washington D.C.,uberPOOL,CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,uberPOOL,CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,uberX,CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,2.73,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,0.97,,USD
+Washington D.C.,uberPOOL,CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,2.77,,USD
+Washington D.C.,uberX,COMPLETED,,,,,,,,,,1.68,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,7.81,,USD
+Washington D.C.,uberPOOL,COMPLETED,,,,,,,,,,1.53,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,2.01,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,3.67,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,2.5,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,1.71,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,3.73,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,5.43,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,5.07,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,1.21,,USD
+Washington D.C.,uberPOOL,COMPLETED,,,,,,,,,,2.83,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,3.7,,USD
+Washington D.C.,uberX,COMPLETED,,,,,,,,,,10.15,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,10.44,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,2.72,,USD
+Washington D.C.,uberX,COMPLETED,,,,,,,,,,1.73,,USD
+Washington D.C.,uberX,DRIVER_CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,uberPOOL,COMPLETED,,,,,,,,,,11.17,,USD
+Washington D.C.,uberX,COMPLETED,,,,,,,,,,10.76,,USD
+Washington D.C.,uberPOOL,COMPLETED,,,,,,,,,,0.84,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,4.56,,USD
+Washington D.C.,uberX,COMPLETED,,,,,,,,,,1.96,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,2.37,,USD
+Washington D.C.,uberX,COMPLETED,,,,,,,,,,1.04,,USD
+Washington D.C.,uberX,COMPLETED,,,,,,,,,,9.86,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,11.18,,USD
+Washington D.C.,uberPOOL,COMPLETED,,,,,,,,,,1.52,,USD
+Washington D.C.,uberPOOL,CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,uberPOOL,COMPLETED,,,,,,,,,,0.93,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,1.85,,USD
+Chicago,uberX,COMPLETED,,,,,,,,,,3.99,,USD
+Chicago,XL,CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,uberX,COMPLETED,,,,,,,,,,4.11,,USD
+Washington D.C.,uberPOOL,CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,uberPOOL,COMPLETED,,,,,,,,,,11.15,,USD
+Washington D.C.,uberPOOL,COMPLETED,,,,,,,,,,5.71,,USD
+Washington D.C.,uberX,CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,1.86,,USD
+Washington D.C.,uberX,COMPLETED,,,,,,,,,,11.19,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,11.86,,USD
+Washington D.C.,uberPOOL,COMPLETED,,,,,,,,,,0.79,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,16.7,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,9.3,,USD
+Washington D.C.,uberPOOL,COMPLETED,,,,,,,,,,8.23,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,4.12,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,9.99,,USD
+Washington D.C.,uberX,COMPLETED,,,,,,,,,,0.04,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,10.45,,USD
+Washington D.C.,uberPOOL,COMPLETED,,,,,,,,,,1.89,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,9.82,,USD
+Washington D.C.,uberX,COMPLETED,,,,,,,,,,9.97,,USD
+Washington D.C.,uberX,COMPLETED,,,,,,,,,,9.72,,USD
+Washington D.C.,uberX,COMPLETED,,,,,,,,,,2.83,,USD
+Philadelphia,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,4.53,,USD
+Philadelphia,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,5,,USD
+Philadelphia,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,2.7,,USD
+Philadelphia,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,3.34,,USD
+Philadelphia,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,2.46,,USD
+Washington D.C.,uberX,COMPLETED,,,,,,,,,,3.06,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,10.87,,USD
+Washington D.C.,uberPOOL,DRIVER_CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,11.66,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,13.94,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,10.13,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,11.8,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,9.82,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,7.95,,USD
+Washington D.C.,uberX,COMPLETED,,,,,,,,,,13.09,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,10.86,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,5.98,,USD
+Washington D.C.,uberPOOL,COMPLETED,,,,,,,,,,6.27,,USD
+Washington D.C.,uberX,COMPLETED,,,,,,,,,,8.94,,USD
+Washington D.C.,uberX,COMPLETED,,,,,,,,,,3.57,,USD
+Washington D.C.,uberPOOL,COMPLETED,,,,,,,,,,10.1,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,11.1,,USD
+Washington D.C.,uberX,COMPLETED,,,,,,,,,,9.09,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,2.99,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,11,,USD
+San Francisco,POOL: MATCHED,COMPLETED,,,,,,,,,,4.36,,USD
+San Francisco,POOL: MATCHED,COMPLETED,,,,,,,,,,4.98,,USD
+San Francisco,POOL: MATCHED,COMPLETED,,,,,,,,,,4.08,,USD
+San Francisco,POOL: MATCHED,COMPLETED,,,,,,,,,,3.68,,USD
+San Francisco,POOL: MATCHED,COMPLETED,,,,,,,,,,3.83,,USD
+San Francisco,POOL: MATCHED,COMPLETED,,,,,,,,,,4.15,,USD
+San Francisco,POOL,COMPLETED,,,,,,,,,,7.72,,USD
+San Francisco,POOL,COMPLETED,,,,,,,,,,4.01,,USD
+San Francisco,POOL: MATCHED,COMPLETED,,,,,,,,,,3.63,,USD
+San Francisco,POOL,COMPLETED,,,,,,,,,,2.69,,USD
+San Francisco,POOL,COMPLETED,,,,,,,,,,1.09,,USD
+San Francisco,POOL,CANCELED,,,,,,,,,,0,,USD
+San Francisco,POOL: MATCHED,COMPLETED,,,,,,,,,,3.89,,USD
+San Francisco,POOL: MATCHED,COMPLETED,,,,,,,,,,2.98,,USD
+San Francisco,POOL: MATCHED,COMPLETED,,,,,,,,,,16.03,,USD
+Washington D.C.,uberPOOL,CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,10.04,,USD
+Washington D.C.,uberPOOL,COMPLETED,,,,,,,,,,10.33,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,12.06,,USD
+Washington D.C.,uberPOOL,CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,uberPOOL,CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,9.93,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,9.81,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,5.22,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,5.59,,USD
+Washington D.C.,uberPOOL,DRIVER_CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,5.74,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,6.33,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,10.09,,USD
+Washington D.C.,uberX,COMPLETED,,,,,,,,,,4.37,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,5.78,,USD
+Washington D.C.,uberPOOL,CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,uberPOOL,CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,uberX,COMPLETED,,,,,,,,,,8.59,,USD
+Washington D.C.,uberX,CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,POOL: MATCHED,COMPLETED,,,,,,,,,,3.65,,USD
+Washington D.C.,POOL,CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,uberX,COMPLETED,,,,,,,,,,5.49,,USD
+Washington D.C.,POOL,CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,uberX,COMPLETED,,,,,,,,,,6.57,,USD
+Washington D.C.,POOL: MATCHED,COMPLETED,,,,,,,,,,11.97,,USD
+Washington D.C.,POOL: MATCHED,COMPLETED,,,,,,,,,,7.87,,USD
+Washington D.C.,POOL,COMPLETED,,,,,,,,,,5.8,,USD
+Washington D.C.,uberX,CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,POOL,COMPLETED,,,,,,,,,,5.56,,USD
+Washington D.C.,POOL,COMPLETED,,,,,,,,,,3.94,,USD
+Washington D.C.,POOL,CANCELED,,,,,,,,,,0.29,,USD
+Washington D.C.,POOL,COMPLETED,,,,,,,,,,10.62,,USD
+St Louis,uberX,COMPLETED,,,,,,,,,,7.23,,USD
+Washington D.C.,POOL: MATCHED,COMPLETED,,,,,,,,,,11.59,,USD
+Washington D.C.,POOL: MATCHED,COMPLETED,,,,,,,,,,13.75,,USD
+Washington D.C.,POOL,COMPLETED,,,,,,,,,,5.81,,USD
+Washington D.C.,POOL: MATCHED,COMPLETED,,,,,,,,,,8.96,,USD
+Washington D.C.,uberPOOL,COMPLETED,,,,,,,,,,11.89,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,9.69,,USD
+St Louis,uberX,CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,uberXL,FARE_SPLIT,,,,,,,,,,11.78,,USD
+Washington D.C.,uberX,FARE_SPLIT,,,,,,,,,,11.18,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,7.39,,USD
+Washington D.C.,uberPOOL,CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,uberPOOL,CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,uberPOOL,CANCELED,,,,,,,,,,0.08,,USD
+Washington D.C.,uberPOOL,COMPLETED,,,,,,,,,,10.16,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,9.84,,USD
+Washington D.C.,uberPOOL,COMPLETED,,,,,,,,,,10.43,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,12.03,,USD
+Washington D.C.,uberPOOL,COMPLETED,,,,,,,,,,13.52,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,8.48,,USD
+Washington D.C.,uberX,FARE_SPLIT,,,,,,,,,,3.56,,USD
+Washington D.C.,uberX,CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,uberX,COMPLETED,,,,,,,,,,1.99,,USD
+Washington D.C.,uberPOOL,CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,10.93,,USD
+Washington D.C.,uberPOOL,CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,uberPOOL,COMPLETED,,,,,,,,,,8.54,,USD
+Washington D.C.,uberX,FARE_SPLIT,,,,,,,,,,1.18,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,10.45,,USD
+Washington D.C.,uberX,COMPLETED,,,,,,,,,,10.71,,USD
+Washington D.C.,uberX,DRIVER_CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,uberPOOL,COMPLETED,,,,,,,,,,11.32,,USD
+Washington D.C.,uberXL,FARE_SPLIT,,,,,,,,,,1.6,,USD
+Washington D.C.,uberX,FARE_SPLIT,,,,,,,,,,2.08,,USD
+Washington D.C.,uberPOOL: MATCHED,COMPLETED,,,,,,,,,,8.36,,USD
+Washington D.C.,uberX,FARE_SPLIT,,,,,,,,,,6.41,,USD
+Washington D.C.,uberX,FARE_SPLIT,,,,,,,,,,2.57,,USD
+Washington D.C.,uberX,COMPLETED,,,,,,,,,,12.34,,USD
+Washington D.C.,uberX,COMPLETED,,,,,,,,,,6.91,,USD
+Washington D.C.,uberX,CANCELED,,,,,,,,,,0,,USD
+Washington D.C.,uberX,COMPLETED,,,,,,,,,,6.06,,USD
+Washington D.C.,uberX,COMPLETED,,,,,,,,,,11.56,,USD
+Washington D.C.,uberX,COMPLETED,,,,,,,,,,14.01,,USD
+Chicago,UberX,FARE_SPLIT,,,,,,,,,,0.95,,USD
+Chicago,UberX,FARE_SPLIT,,,,,,,,,,3.33,,USD
+Chicago,UberX,FARE_SPLIT,,,,,,,,,,1.86,,USD
