@@ -14,5 +14,5 @@ The data used for this analysis was downloaded using the link [here](https://hel
 
 
 ### Challenges
-- A significant portion of the data wouldn't download properly so I had to copy and paste the data and write a few scripts to manually standardize the formatting with the portion that did download
+- A significant portion of the data wouldn't download properly so I had to copy and paste the data and write a few scripts to manually standardize the formatting to align with the portion that did download
 - The time zones were not standardized evenly for both the eats and rides datasets.  I had to cross check these values to ensure the dates and times were comparable across all datasets.
